@@ -24,3 +24,7 @@
 - 11.Game: honor of kings
 
 - 12.program : explain a technique 
+
+- 13.oral diary /journal
+
+- 14.Dialogue in daily life scenes
