@@ -28,3 +28,5 @@
 - 13.oral diary /journal
 
 - 14.Dialogue in daily life scenes
+
+text to speech  https://ttsreader.com/
